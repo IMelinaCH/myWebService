@@ -1,9 +1,8 @@
-# myWebService
-Example of a SOAP Web Service using Spring Framework
+# SOAP Web Service
 
 GETTING STARTED
 
-This guide walks you through the process of creating a SOAP-based web service server with Spring.
+This guide walks you through the process of creating a SOAP-based web service server with Spring framework.
 
 What you’ll build
 
